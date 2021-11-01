@@ -1,2 +1,2 @@
 # WaterspoutPredictionML
-<img src="ImageOfDashboard.png">
+<img src="ImageofDashboard.png">
